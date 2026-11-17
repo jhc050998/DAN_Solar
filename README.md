@@ -4,7 +4,7 @@ This is the official code repository for the paper: A Biologically Inspired Dend
 
 In our paper, we introduce:
 
-- **A dendritic attention network:** The network architecture of the model dendritic attention network (DAN).
+- **Dendritic attention network:** The network architecture of the model dendritic attention network (DAN).
 
 <p align="center">
 <img src="images/model.png" width="75%" height="75%" />
@@ -13,7 +13,7 @@ In our paper, we introduce:
 - **Process flow:** The framework of forecasting future solar irradiance via the DAN.
 
 <p align="center">
-<img src="images/frame.png" width="75%" height="75%" />
+<img src="images/frame.png" width="85%" height="85%" />
 </p>
 
 ## Software & Hardware Requirements
