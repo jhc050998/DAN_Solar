@@ -1,0 +1,80 @@
+[
+  {
+    "dataset": 1,
+    "country": "Cuba",
+    "city": "Havana",
+    "latitude": 23.1136,
+    "longitude": -82.3666,
+    "year": 2022,
+    "window_start": "2022-01-01",
+    "window_days": 122,
+    "year_records": 8760,
+    "paper_window_points": 1708,
+    "file": "dataset1_havana_2022.csv"
+  },
+  {
+    "dataset": 2,
+    "country": "Mexico",
+    "city": "Mexico City",
+    "latitude": 19.4326,
+    "longitude": -99.1332,
+    "year": 2022,
+    "window_start": "2022-01-01",
+    "window_days": 122,
+    "year_records": 8760,
+    "paper_window_points": 1708,
+    "file": "dataset2_mexico_city_2022.csv"
+  },
+  {
+    "dataset": 3,
+    "country": "Bolivia",
+    "city": "Santa Cruz",
+    "latitude": -17.7833,
+    "longitude": -63.1821,
+    "year": 2022,
+    "window_start": "2022-01-01",
+    "window_days": 122,
+    "year_records": 8760,
+    "paper_window_points": 1708,
+    "file": "dataset3_santa_cruz_2022.csv"
+  },
+  {
+    "dataset": 4,
+    "country": "Suriname",
+    "city": "Paramaribo",
+    "latitude": 5.852,
+    "longitude": -55.2038,
+    "year": 2022,
+    "window_start": "2022-01-01",
+    "window_days": 122,
+    "year_records": 8760,
+    "paper_window_points": 1708,
+    "file": "dataset4_paramaribo_2022.csv"
+  },
+  {
+    "dataset": 5,
+    "country": "Venezuela",
+    "city": "Caracas",
+    "latitude": 10.4806,
+    "longitude": -66.9036,
+    "year": 2022,
+    "window_start": "2022-01-01",
+    "window_days": 122,
+    "year_records": 8760,
+    "paper_window_points": 1708,
+    "file": "dataset5_caracas_2022.csv"
+  },
+  {
+    "dataset": 6,
+    "country": "United States",
+    "city": "Phoenix",
+    "latitude": 33.4484,
+    "longitude": -112.074,
+    "year": 2022,
+    "window_start": "2022-01-01",
+    "window_days": 122,
+    "year_records": 8760,
+    "paper_window_points": 1708,
+    "file": "dataset6_phoenix_2022.csv"
+  }
+]
