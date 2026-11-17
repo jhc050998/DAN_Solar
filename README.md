@@ -1,2 +1,21 @@
-# DAN_Solar
-Dendritic attention network for photovoltaic power forecasting
+# Dendritic attention network for photovoltaic power forecasting
+
+This is the official code repository for the paper: A Biologically Inspired Dendritic Attention Network for Short-Term Solar Irradiance Forecasting in Photovoltaic Systems.
+
+In our paper, we introduce:
+
+- **A dendritic attention network:** The network architecture of the model dendritic attention network (DAN).
+
+<p align="center">
+<img src="images/model.png" width="75%" height="75%" />
+</p>
+
+- **Technique Process:** The framework of forecasting future solar irradiance via the DAN.
+
+<p align="center">
+<img src="images/frame.png" width="65%" height="65%" />
+</p>
+
+## Software & Hardware Requirements
+
+The implementation is based on Python and the required environmental dependencies are relatively simple. Version control tool is not necessary.
