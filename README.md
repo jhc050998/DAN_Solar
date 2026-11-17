@@ -10,10 +10,10 @@ In our paper, we introduce:
 <img src="images/model.png" width="75%" height="75%" />
 </p>
 
-- **Technique Process:** The framework of forecasting future solar irradiance via the DAN.
+- **Process flow:** The framework of forecasting future solar irradiance via the DAN.
 
 <p align="center">
-<img src="images/frame.png" width="65%" height="65%" />
+<img src="images/frame.png" width="75%" height="75%" />
 </p>
 
 ## Software & Hardware Requirements
