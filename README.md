@@ -1,6 +1,6 @@
 # Dendritic Attention Network for Solar Irradiance Forecasting
 
-This is the official code repository for the paper: A Biologically Inspired Dendritic Attention Network for Short-Term Solar Irradiance Forecasting in Photovoltaic Systems.
+This is the official code repository for the paper: A Biologically Inspired Dendritic Attention Network for Short-Term Solar Irradiance Forecasting in Photovoltaic Applications.
 
 In our paper, we introduce:
 
